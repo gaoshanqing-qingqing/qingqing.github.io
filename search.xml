@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2024/10/12/hello-world/"/>
+      <url>/2024/10/12/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="keyword">function</span> <span class="title function_">test</span>(<span class="params"></span>) &#123;</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello world&#x27;</span>)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>新的开始</title>
+      <link href="/2024/10/12/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/"/>
+      <url>/2024/10/12/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/</url>
+      
+        <content type="html"><![CDATA[<p>已经玩很久，一直都想从新开始把每一天变得充实起来，结果依然在一直玩手机，逐渐越来越烦躁并且思考也变得迟钝，应该是太多碎片化的信息无法得到加工大脑开始排斥并且遗忘，今日开始做一些计划并且执行。</p><h1 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h1><h2 id="大概计划"><a href="#大概计划" class="headerlink" title="大概计划"></a>大概计划</h2><p>每三天，休息半天打扫房间，这天不运动，其余运动半小时。</p><p>学习每次时长30分钟休息5分钟，休息期间不可以玩手机。</p><p>早晨四点半到五点半起床。</p><p>中午十二点到一点半午休吃饭。</p><p>晚上五点半到六点半玩手机。</p><p>晚上六点到七点半吃晚饭。</p><p>九点半睡觉。</p><p>其余时间学习。</p><h2 id="学习计划"><a href="#学习计划" class="headerlink" title="学习计划"></a>学习计划</h2><h3 id="逻辑学"><a href="#逻辑学" class="headerlink" title="逻辑学"></a>逻辑学</h3><p>演绎推理及其技巧，应用到计算机编程中，与生活结合，批判性思维，每天一小时。</p><h3 id="js与数据结构与算法"><a href="#js与数据结构与算法" class="headerlink" title="js与数据结构与算法"></a>js与数据结构与算法</h3><p>每天三小时，半小时看js，其余时间学习数据结构算法。<br>每天一小时看js面试题。<br>一小时uniapp学习视频。</p><h3 id="孙子兵法和论语"><a href="#孙子兵法和论语" class="headerlink" title="孙子兵法和论语"></a>孙子兵法和论语</h3><p>作为人生的基本指导，每天一小时。</p><h3 id="针灸甲乙经"><a href="#针灸甲乙经" class="headerlink" title="针灸甲乙经"></a>针灸甲乙经</h3><p>每天一个小时，了解中医，一周给自己针灸一次。</p><h3 id="板绘"><a href="#板绘" class="headerlink" title="板绘"></a>板绘</h3><p>每天练习一小时线稿。（练习人体与针灸结合）</p><h3 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h3><p>每天一小时，声乐视频。</p><h3 id="了解世界"><a href="#了解世界" class="headerlink" title="了解世界"></a>了解世界</h3><p>每天一小时读书</p><h4 id="资本论"><a href="#资本论" class="headerlink" title="资本论"></a>资本论</h4>]]></content>
+      
+      
+      <categories>
+          
+          <category> 日记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Sports,Baseball </tag>
+            
+            <tag> 生活 </tag>
+            
+            <tag> 记录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
