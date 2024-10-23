@@ -309,7 +309,7 @@ footer:
     since: 2023
   # 自定义文本
   custom_text: <p style="width:100%;text-align:center;">
-                <image src="https://gaoshanqing-qingqing.github.io/qingqing.github.io/img/guohui.png" style="vertical-align:middle" width="18" height="18">
+                <image src="https://blog.qingqing.cool/img/guohui.png" style="vertical-align:middle" width="18" height="18">
                 <a class="banquan" style="color:#FFFFFF;text-decoration:none;" href="https://beian.miit.gov.cn/?lang=zh-cn#/Integrated/index" rel="noopener">黑公网安备23120002010000号</a>
                 <a class="banquan" style="color:#FFFFFF;text-decoration:none;" href="https://beian.miit.gov.cn/?lang=zh-cn#/Integrated/index" target="_blank" rel="noopener">黑ICP备2023011947号</a>
                </p>
