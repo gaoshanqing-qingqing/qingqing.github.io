@@ -28,7 +28,7 @@ menu:
     音乐: /music/ || fas fa-music
     电影: /movies/ || fas fa-video
     友链: /link/ || fas fa-link
-    关于: /about/ || fas fa-heart
+    使用技巧: /标签外挂文档/ || fas fa-heart
 
 
 # --------------------------------------
@@ -1073,9 +1073,9 @@ lightbox:
 # 系列
 series:
   # 是否启用系列
-  enable: false
+  enable: true
   # 按标题或日期排序
-  orderBy: 'title'
+  orderBy: 'date'
   # 排序方式。1, asc 为升序; -1, desc 为降序
   order: 1
   # 是否显示编号
