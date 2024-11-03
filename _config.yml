@@ -47,6 +47,11 @@ mmedia:
 aplayer:
   meting: true
   asset_inject: false
+# 数学公式katex
+markdown:
+  plugins:
+    - '@renbaoshuo/markdown-it-katex'
+
 
 
 # Writing

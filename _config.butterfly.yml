@@ -537,7 +537,7 @@ busuanzi:
 math:
   # 选择：mathjax, katex
   # 如果不需要数学公式，保持为空
-  use:
+  use: katex
   per_page: true
   hide_scrollbar: false
 
@@ -549,7 +549,7 @@ math:
 
   katex:
     # 启用复制 KaTeX 公式
-    copy_tex: false
+    copy_tex: true
 
 # --------------------------------------
 # 搜索设置
